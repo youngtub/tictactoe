@@ -2,5 +2,5 @@
 
 To start, run:
 
-npm install
+npm install \n
 node ttt.js
